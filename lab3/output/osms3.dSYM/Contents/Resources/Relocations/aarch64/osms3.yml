@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nikitalapin/Documents/osms/lab3/output/osms3'
+relocations:     []
+...
